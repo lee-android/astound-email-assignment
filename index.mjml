@@ -17,7 +17,6 @@
         }
         
     </mj-style>
-
     </mj-head>
     <mj-body>
         
@@ -47,12 +46,18 @@
                 <table style="background-color:#fff; width:100%;max-width:600px;">
       	        <tr>
         	        <td align="left" style="padding-left: 15px; padding-bottom: 30px;">
-          	           <image src="/imgs/logo.png" width="180px" alt=""/> 
+          	           <image src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/logo.png" width="180px" alt=""/> 
                     </td>
                     <td align="right" style="padding-right:15px;">
-          	            <image src="/imgs/facebook.png" width="30px" alt=""/>
-                        <image style="margin-left:12px;" src="/imgs/twitter.png" width="30px" alt=""/>
-                        <image style="margin-left:12px;" src="/imgs/instagram.png" width="30px" alt=""/>
+          	            <a href="https://www.facebook.com/AstoundpoweredbyGrande">
+                            <image src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/facebook.png" width="30px" alt=""/>
+                        </a>
+                        <a href="https://twitter.com/grandecom">
+                            <image style="margin-left:12px;" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/twitter.png" width="30px" alt=""/>
+                        </a>
+                        <a href="https://www.instagram.com/astound_grande/">
+                            <image style="margin-left:12px;" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/instagram.png" width="30px" alt=""/>
+                        </a>
                     </td>
                 </tr>
             </table>
@@ -60,7 +65,7 @@
 
             <mj-section background-color="white" padding="0">
                 <mj-column width="100%">
-                    <mj-image src="/imgs/hero.png" alt="" padding="0" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/hero.png" alt="" padding="0" />
                 </mj-column>
             </mj-section>
 
@@ -78,25 +83,25 @@
 
             <mj-section>
                 <mj-column>
-                    <mj-image src="/imgs/mobile-network.png" width="60px" alt="" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/mobile-network.png" width="60px" alt="" />
                     <mj-text align="center">
                         Nearby devices won’t slow you down
                     </mj-text>
                 </mj-column>
                 <mj-column>
-                    <mj-image src="/imgs/wireless.png" width="60px" alt="" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/wireless.png" width="60px" alt="" />
                     <mj-text align="center">
                         Control in the palm of your hand
                     </mj-text>
                 </mj-column>
                 <mj-column>
-                    <mj-image src="/imgs/home-network.png" width="60px" alt="" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/home-network.png" width="60px" alt="" />
                     <mj-text align="center">
                         Your WiFi stays safe and secure
                     </mj-text>
                 </mj-column>
                 <mj-column>
-                    <mj-image src="/imgs/network.png" width="60px" alt="" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/network.png" width="60px" alt="" />
                     <mj-text align="center">
                         Nearby devices won’t slow you down
                     </mj-text>
