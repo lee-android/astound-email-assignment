@@ -1,0 +1,158 @@
+<mjml>
+    <mj-head>
+        <mj-title>Introducing Eero Wifi</mj-title>
+        <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto" />
+        <mj-attributes>
+            <mj-breakpoint width="600px" />
+            <mj-text color="#444" font-size="16px" line-height="1.2" />
+                
+        </mj-attributes>
+
+    <mj-style inline="inline">
+        .vertical {
+            display: block !important;
+            border-left: 1px solid #ccc !important;
+            margin: 0 0px !important;
+            height: 125px !important;
+        }
+        
+    </mj-style>
+
+    </mj-head>
+    <mj-body>
+        
+        <mj-wrapper background-color="white">
+        <!-- view in browser -->
+            <mj-raw>
+                <!-- Your content goes here -->
+                <table style="background-color:#fff; width:100%;max-width:600px;">
+                    <tr>
+                        <td align="left">
+                            <p style="padding: 0 0 0 15px; color: #444;font-family:'roboto'; font-size:12px;">
+                                eero takes your wifi to a whole new level 
+                            </p>
+                        </td>
+                        <td align="right">
+                            <p style="color: #444; padding: 0 15px 0 0;font-family:'roboto';">
+                                <a href="#" style="font-family:'roboto'; font-size:12px;color:blue;color::after:#444;">
+                                    View in browser
+                                </a> 
+                            </p>
+                        </td>
+                    </tr>
+                </table>        
+            </mj-raw>
+
+            <mj-raw>
+                <table style="background-color:#fff; width:100%;max-width:600px;">
+      	        <tr>
+        	        <td align="left" style="padding-left: 15px; padding-bottom: 30px;">
+          	           <image src="/imgs/logo.png" width="180px" alt=""/> 
+                    </td>
+                    <td align="right" style="padding-right:15px;">
+          	            <image src="/imgs/facebook.png" width="30px" alt=""/>
+                        <image style="margin-left:12px;" src="/imgs/twitter.png" width="30px" alt=""/>
+                        <image style="margin-left:12px;" src="/imgs/instagram.png" width="30px" alt=""/>
+                    </td>
+                </tr>
+            </table>
+            </mj-raw>
+
+            <mj-section background-color="white" padding="0">
+                <mj-column width="100%">
+                    <mj-image src="/imgs/hero.png" alt="" padding="0" />
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column width="100%">
+                    <mj-text font-size="28px" align="center" font-weight="400">
+                        The smartest WiFi on the block 
+                    </mj-text>
+
+                    <mj-text align="center" font-size="16px" padding-top="50px">
+                        With Whole Home WiFi by eero, it doesn’t matter how many devices are nearby. You can stream, download, or game -- simply and easily.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-image src="/imgs/mobile-network.png" width="60px" alt="" />
+                    <mj-text align="center">
+                        Nearby devices won’t slow you down
+                    </mj-text>
+                </mj-column>
+                <mj-column>
+                    <mj-image src="/imgs/wireless.png" width="60px" alt="" />
+                    <mj-text align="center">
+                        Control in the palm of your hand
+                    </mj-text>
+                </mj-column>
+                <mj-column>
+                    <mj-image src="/imgs/home-network.png" width="60px" alt="" />
+                    <mj-text align="center">
+                        Your WiFi stays safe and secure
+                    </mj-text>
+                </mj-column>
+                <mj-column>
+                    <mj-image src="/imgs/network.png" width="60px" alt="" />
+                    <mj-text align="center">
+                        Nearby devices won’t slow you down
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-raw>
+                <table style="height:250px;background-color:white;width:500px;margin:auto;border-top:1px solid #ddd;border-bottom:1px solid #ddd;">
+                    <tr>
+                        <td>
+                            <table align="center" width="560px" style="margin:auto;">
+                                <tr>
+                                    <td style="padding-right:30px;border-right:solid #ddd 1px;height:200px;vertical-align:middle;background-color:;">
+                                        <p style="color:#444;text-align:left;font-size:20px;font-family:'roboto';padding-left:15px;">
+                                        Update your WiFi today!</br>
+                                        Get amazingly fast WiFi everywhere.
+                                        <br><br>
+                                        Call Today <span style="font-weight:600;">1.866.247.2363</span>
+                                        </p>
+                                    </td>
+                                    <td style="padding-left:40px;height:200px;vertical-align:middle;background-color:;">
+                                        <p style="color:#444;text-align:left;font-size:80px;font-family:'roboto';font-weight:600;padding-right:20px;">
+                                        <span style="font-size:50px;vertical-align:middle;">$</span>9<span class="95" style="font-size:35px;vertical-align:text-top;">95</span>
+                                        </p>
+                                        <p style="color:#444;text-align:center;font-size:13px;font-family:'roboto';font-weight:600;">
+                                        per month
+                                        </p>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+            </mj-raw>
+
+            <mj-section>
+                <mj-column>
+                    <mj-text font-family="roboto" font-size="9px" padding="0" align="center">
+                        Whole Home WiFi is an additional $9.95 per month and includes 1 eero and 1 Beacon eero. Each additional eero beacon is $5.00 per month.
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+
+            <mj-section>
+                <mj-column>
+                    <mj-text font-family="roboto" font-size="12px" padding="0" align="center" padding-top="80px">
+                        <span style="font-weight:600;">Astound Broadband by RCN © 2022</span> // 1133 Avenue of the Americas New York, NY 10036 //
+                        </br>
+                        You are recieving this email because you subscribed to marketing information by Astound Broadband.
+                        </br>
+                        Update your email preferences to choose the types of emails you receive.
+                        </br></br>
+                        <a style="color:blue;" href="#">Privacy Policy</a>  |  <a style="color:blue;" href="#">Terms</a>  |  <a style="color:blue;" href="#">Help</a>  |  <a style="color:blue;" href="#">Unsubscribe</a>
+                    </mj-text>
+                </mj-column>
+            </mj-section>
+        </mj-wrapper>
+    </mj-body>
+</mjml>
