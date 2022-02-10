@@ -13,12 +13,13 @@
             font-family: 'roboto', sans-serif;
         }
 
+
         .vertical {
             display: block !important;
             border-left: 1px solid #ddd !important;
-            margin: 0 0px !important;
-            height: 125px !important;
-            padding:0 20px;
+            margin: 0 10px !important;
+            height: 120px !important;
+            padding:1px 0px 0 20px;
         }
 
         .footer-link {
@@ -89,12 +90,12 @@
         <!-- HERO IMAGE -->
             <mj-section background-color="white" padding="0">
                 <mj-column width="100%">
-                    <mj-image src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/hero.png" alt="Eero Wifi -- WiFi that just gets it" padding="0" />
+                    <mj-image href="https://www.astound.com/internet/wifi/" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/hero.png" alt="Eero Wifi -- WiFi that just gets it" padding="0" />
                 </mj-column>
             </mj-section>
 
             <mj-section>
-                <mj-column width="100%">
+                <mj-column width="90%">
                     <mj-text font-size="28px" align="center" font-weight="400">
                         The smartest WiFi on the block
                     </mj-text>
