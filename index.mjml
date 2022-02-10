@@ -33,7 +33,7 @@
         }
 
         .perMonth{
-            margin:-72px 0px 50px 70px !important;
+            margin:-72px 0px 50px 65px !important;
         }
     </mj-style>
 
@@ -69,10 +69,10 @@
             <mj-raw>
                 <table role="presentation" style="background-color:#fff; width:100%;max-width:600px;">
                     <tr>
-                        <td align="left" style="padding:30px 40px 30px 15px;">
-                        <img src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/logo.png" width="170px" alt="Grande Communications logo"/> 
+                        <td align="left" style="padding:30px 40px 30px 15px;width:50%;">
+                        <img src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/logo.png" width="100%" alt="Grande Communications logo"/> 
                         </td>
-                        <td align="right" style="padding-right:25px;padding-bottom:30px;vertical-align:bottom;background-color:;">
+                        <td align="right" style="padding:0 15px 30px 0;vertical-align:bottom;width:100%;">
                             <a class="socials" href="https://www.facebook.com/AstoundpoweredbyGrande">
                                 <img src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/facebook.png" width="30px" alt="Grande Communications on Facebook"/>
                             </a>
@@ -95,7 +95,7 @@
             </mj-section>
 
             <mj-section>
-                <mj-column width="90%">
+                <mj-column width="100%">
                     <mj-text font-size="28px" align="center" font-weight="400">
                         The smartest WiFi on the block
                     </mj-text>
@@ -143,8 +143,8 @@
                         <td>
                             <table role="presentation" align="center" width="560px">
                                 <tr>
-                                    <td style="height:200px;vertical-align:middle;background-color:;">
-                                        <p style="color:#444;text-align:left;font-size:20px;font-family:'roboto', sans-serif;padding:0 29px 0 25px;">
+                                    <td style="height:200px;vertical-align:middle;">
+                                        <p style="color:#444;text-align:left;font-size:20px;font-family:'roboto', sans-serif;padding:0 20px 0 25px;">
                                         Update your WiFi today!</br>
                                         Get amazingly fast WiFi everywhere.
                                         <br><br>
