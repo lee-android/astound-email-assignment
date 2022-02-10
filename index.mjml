@@ -19,7 +19,7 @@
             border-left: 1px solid #ddd !important;
             margin: 0 10px !important;
             height: 120px !important;
-            padding:1px 0px 0 20px;
+            padding:1px 0px 0 25px;
         }
 
         .footer-link {
@@ -33,7 +33,7 @@
         }
 
         .perMonth{
-            margin:-72px 0px 50px 52px !important;
+            margin:-72px 0px 50px 70px !important;
         }
     </mj-style>
 
@@ -144,7 +144,7 @@
                             <table role="presentation" align="center" width="560px">
                                 <tr>
                                     <td style="height:200px;vertical-align:middle;background-color:;">
-                                        <p style="color:#444;text-align:left;font-size:20px;font-family:'roboto', sans-serif;padding-left:20px;">
+                                        <p style="color:#444;text-align:left;font-size:20px;font-family:'roboto', sans-serif;padding:0 29px 0 25px;">
                                         Update your WiFi today!</br>
                                         Get amazingly fast WiFi everywhere.
                                         <br><br>
