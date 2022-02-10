@@ -35,27 +35,13 @@
             margin:-72px 0px 50px 52px !important;
         }
     </mj-style>
-    <mj-style>
-        /* Your light mode (default) styles: */
-	body {
-		background: white;
-		color: #393939;
-	}
 
-	@media (prefers-color-scheme: dark) {
-		/* Your dark mode styles: */
-
-		body {
-			background: black;
-			color: #ccc;
-		}
-	}
-    </mj-style>
     </mj-head>
+
     <mj-body>
         
         <mj-wrapper background-color="white">
-        <!-- view in browser -->
+        <!-- VIEW IN BROWSER -->
             <mj-raw>
                 <!-- Your content goes here -->
                 <table role="presentation" style="background-color:#fff; width:100%;max-width:600px;">
@@ -78,37 +64,39 @@
                 </table>        
             </mj-raw>
 
+        <!-- HEADER (logo and social links) -->
             <mj-raw>
                 <table role="presentation" style="background-color:#fff; width:100%;max-width:600px;">
                     <tr>
                         <td align="left" style="padding:30px 40px 30px 15px;">
-                        <img src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/logo.png" width="170px" alt=""/> 
+                        <img src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/logo.png" width="170px" alt="Grande Communications logo"/> 
                         </td>
                         <td align="right" style="padding-right:25px;padding-bottom:30px;vertical-align:bottom;background-color:;">
                             <a class="socials" href="https://www.facebook.com/AstoundpoweredbyGrande">
-                                <img src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/facebook.png" width="30px" alt=""/>
+                                <img src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/facebook.png" width="30px" alt="Grande Communications on Facebook"/>
                             </a>
                             <a class="socials" href="https://twitter.com/grandecom">
-                                <img style="margin-left:12px;" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/twitter.png" width="30px" alt=""/>
+                                <img style="margin-left:12px;" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/twitter.png" width="30px" alt="Follow Grande Communications on Twitter"/>
                             </a>
                             <a class="socials" href="https://www.instagram.com/astound_grande/">
-                                <img style="margin-left:12px;" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/instagram.png" width="30px" alt=""/>
+                                <img style="margin-left:12px;" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/instagram.png" width="30px" alt="Follow Grande Communications on Instagram"/>
                             </a>
                         </td>
                     </tr>
                 </table>
             </mj-raw>
 
+        <!-- HERO IMAGE -->
             <mj-section background-color="white" padding="0">
                 <mj-column width="100%">
-                    <mj-image src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/hero.png" alt="" padding="0" />
+                    <mj-image src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/hero.png" alt="Eero Wifi -- WiFi that just gets it" padding="0" />
                 </mj-column>
             </mj-section>
 
             <mj-section>
                 <mj-column width="100%">
                     <mj-text font-size="28px" align="center" font-weight="400">
-                        The smartest WiFi on the block 
+                        The smartest WiFi on the block
                     </mj-text>
 
                     <mj-text align="center" font-size="16px" padding-top="50px">
@@ -120,13 +108,13 @@
             <mj-section>
                 <mj-group>
                     <mj-column padding="15px 0">
-                        <mj-image align="center" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/mobile-network.png" width="60px" alt="" />
+                        <mj-image align="center" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/mobile-network.png" width="60px" alt="eero wireless delivers high speeds to all your mobile devices." />
                         <mj-text align="center">
                             Nearby devices won’t slow you down
                         </mj-text>
                     </mj-column>
                     <mj-column padding="15px 0">
-                        <mj-image align="center" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/wireless.png" width="60px" alt="" />
+                        <mj-image align="center" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/wireless.png" width="60px" alt="Wth eero wireless, you can control all options and settings directly from our app." />
                         <mj-text align="center">
                             Control in the palm of your hand
                         </mj-text>
@@ -134,15 +122,15 @@
                 </mj-group>
                 <mj-group>
                     <mj-column padding="15px 0">
-                        <mj-image align="center" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/home-network.png" width="60px" alt="" />
+                        <mj-image align="center" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/home-network.png" width="60px" alt="Eero includes all standard safety protocols, and delivers the freedom to adjust settings on the fly -- everything you need to protect your wifi." />
                         <mj-text align="center">
                             Your WiFi stays safe and secure
                         </mj-text>
                     </mj-column>
                     <mj-column padding="15px 0">
-                        <mj-image align="center" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/network.png" width="60px" alt="" />
+                        <mj-image align="center" src="https://raw.githubusercontent.com/lee-android/astound-email-assignment/master/imgs/network.png" width="60px" alt="Eero WiFi uses smart technology to optimize your internet connection across all your devices." />
                         <mj-text align="center">
-                            Nearby devices won’t slow you down
+                            Custom WiFi that can grow on you
                         </mj-text>
                     </mj-column>
                 </mj-group>
